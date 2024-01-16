@@ -48,11 +48,11 @@
     width: 20%;
     height: 2px;
     opacity: 0;
-    background-image: linear-gradient(to right, #ffffff, #911e34);
+    background-image: linear-gradient(to right, #ffffff, #ffffff, #121212);
     bottom: 20px;
     left: 50%;
     transform: translateX(-50%);
-    border-radius: 30px;
+    border-radius: 10px;
     transition: .3s;
 }
 
